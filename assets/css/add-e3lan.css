@@ -1,0 +1,74 @@
+body{
+    background: #eee;
+}
+.add-e3lan form input
+{
+    border-radius: 40px;
+    height: 54px;
+    background:#fff;
+    color:#FB8C61;
+    border: none;
+}
+.page-top .back-left ,.page-top .back-right{
+  height: 200px;
+
+}
+.add-e3lan label{
+    color:#FB8C61;
+    font-weight: bold;
+}
+.add-e3lan{
+    margin: 50px 0px;
+}
+.add-e3lan h3
+{
+    margin: 27px 0;
+    border-right: 5px solid #FF8A5C;
+    padding-right: 8px;
+    color: #D14D63;
+    margin-right: -15px;
+
+}
+.form-control::placeholder {
+    color: #FB8C61;
+    opacity: 1; 
+  }
+   .add-e3lan form select
+  {
+    color:#FB8C61;
+    height: 54px;
+    background:#fff;
+    border: none;
+  }
+
+  .form-control{
+    color: #FB8C61 !important;
+  }
+  .add-e3lan button{
+    background-image: linear-gradient( #a43d4d, #FB8C61);
+    border: none;
+    width: 50%;
+    color: #fff;
+    margin: 30px 0px;
+  }
+
+  .add-advi p{
+     color:#FB8C61
+  }
+  .add-advi p span
+  {
+    padding: 10px;
+
+  }
+  .add-advi p span .fa
+  {
+    background:#FB8C61 ;
+    color:#FFF;
+    padding: 3px;
+
+  }
+  .add-e3lan form  textarea
+  {
+    height: 170px;
+    border-radius: 20px;
+  }

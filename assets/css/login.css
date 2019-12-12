@@ -1,0 +1,43 @@
+body{
+    background: #eee;
+}
+.number-section form
+{
+    padding: 80px 20px;
+    
+}
+.page-top .back-left ,.page-top .back-right{
+    height: 200px;
+}
+
+.number-section 
+{
+    margin: 50px 0px;
+}
+.number-section .div-2
+{
+    background: #fff;
+}
+.add-e3lan form input ,.number-section form input,.number-section form button
+{
+    border-radius: 40px;
+    height: 54px;
+    background:#b13a48;
+    color:#fff !important;
+    width: 88%;
+    border: none;
+    font-family:Arial, FontAwesome;
+    padding: 10px;
+}
+
+.number-section form button{
+    height: 40px;
+    width: 40%;
+    margin-top: 70px;
+    border: none;
+
+}
+::placeholder {
+    color: #eee;
+    opacity: 1; 
+  }

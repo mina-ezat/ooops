@@ -1,0 +1,104 @@
+body{
+    background: #eee;
+}
+.section-car .div-back
+{
+    background: #fff;
+    padding: 10px 6px;
+    border-radius: 40px;
+    color: #555;
+}
+.section-car .adress-time ,.section-car h3  {
+    color:#FB8C61
+}
+.section-car .button-massg{
+    width: 31%;
+    background-color: #FB8C61;
+    background-image: linear-gradient( #a43d4d, #FB8C61);
+    margin: 20px;
+    border: 0;
+    height: 45px;
+    color: #fff;
+    border-radius: 40px;
+}
+.section-car .icon-right p a ,.section-car .icon-right h2  {
+    color:#a43d4d
+}
+.section-car .icon-left p a ,.section-car .icon-left h2  {
+    color:#FB8C61
+}
+.section-car .icon-right .fa,.icon-left .fa
+{
+    font-size: 32px;
+}
+
+.section-car  .img{
+    height: 350px;
+    width: 100%;
+    background: url("../img/img2.jpg") no-repeat center center;
+    background-size: cover;
+}
+.section-car  .img .bac-color{
+    width: 100%;
+    height: 100%;
+    background: rgba(85, 84, 84, 0.65);
+}
+.section-car  .img .bac-color div
+{
+    text-align: center;
+    padding-top: 130px;
+    color: #fff;
+    font-size: 40px;
+}
+.section-car  textarea{
+    min-height: 180px;
+}
+aside .price-car
+{
+    font-size: 40px;
+    padding: 3px 12px;
+    color: #CC4F5C;
+    background: #fff;
+    border-radius: 20px;
+}
+aside .send-message button ,aside .contact-me button
+{
+    width: 100%;
+    height: 55px;
+    background: #CC4E5E;
+    color: #fff;
+    border-radius: 40px;
+    border: none;
+    font-size: 22px;
+}
+aside .contact-me button{
+    background: #FB8C61;
+}
+aside .user-name{
+    padding: 3px 12px;
+    color: #CC4F5C;
+    background: #fff;
+    border-radius: 10px;
+}
+aside .user-name a{
+    color: #555;
+}
+aside  .div-safety ul li .span-color {
+    font-weight: bold;
+    display: inline-block;
+    width: 13px;
+    background: #FB8C61;
+    height: 13px;
+    border-radius: 50%;
+    margin-left: 5px;
+  }
+  aside .div-safety{
+    background: #3a3a3a;
+    color: #c8c5c5;
+    padding: 8px 3px;
+    opacity: .9;
+    border-radius: 15px;
+  }
+  aside  .div-safety ul li{
+      padding: 10px 0px;
+  }
